@@ -364,6 +364,11 @@ body{
   .contener0{
       width: 750px;
   }
+    @media (max-width: 768px){
+  .c3{
+    width: 0;
+  }
+}
 }
 /* mediom screen */
 @media (min-width: 992px){
